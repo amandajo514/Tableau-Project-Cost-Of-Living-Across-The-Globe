@@ -1,4 +1,4 @@
-## Post Grad Independent Project - Sales Data Analyzing & Predicting
+## Post Grad Independent Project - Cost Of Living Around The Globe
 
 Tableau Public Dashboard Link: HERE (https://public.tableau.com/app/profile/amanda.griffin4897/viz/GlobalCostOfLiving_17086265401210/AvgMonthlyNetSalaryByLocation?publish=yes)
 
